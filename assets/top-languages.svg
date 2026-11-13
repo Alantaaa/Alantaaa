@@ -1,3 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 96" width="820" height="96" role="img" aria-label="Top languages">
-  <rect x="0.5" y="0.5" width="819" height="95" rx="14" fill="#0A0F1E" stroke="#0072FF" stroke-opacity="0.35"/><text x="410.0" y="53.0" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#9FB3C8">Belum ada data bahasa dari repository publik.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 200" width="820" height="200" role="img" aria-label="Top languages">
+  <defs>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="5" result="b1"/><feGaussianBlur in="SourceGraphic" stdDeviation="1.6" result="b2"/><feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowIcon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/><feFlood flood-color="#0072FF" flood-opacity="0.9"/><feComposite in2="b" operator="in" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowText" x="-10%" y="-60%" width="120%" height="220%"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/><feFlood flood-color="#0072FF" flood-opacity="0.95"/><feComposite in2="b" operator="in" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowSoft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="819" height="199" rx="14" fill="#0A0F1E" stroke="#0072FF" stroke-opacity="0.45"/>
+  <text x="28" y="46" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">PHP</text>
+  <rect x="190" y="32" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
+  <rect x="190" y="32" width="223.0" height="18" rx="9" fill="#0072FF" opacity="1.0" filter="url(#glow)"/>
+  <text x="792" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">44.6%</text>
+  <text x="28" y="98" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">JavaScript</text>
+  <rect x="190" y="84" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
+  <rect x="190" y="84" width="148.1" height="18" rx="9" fill="#0072FF" opacity="0.8" filter="url(#glow)"/>
+  <text x="792" y="98" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">29.6%</text>
+  <text x="28" y="150" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Blade</text>
+  <rect x="190" y="136" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
+  <rect x="190" y="136" width="115.8" height="18" rx="9" fill="#0072FF" opacity="0.6" filter="url(#glow)"/>
+  <text x="792" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">23.2%</text>
 </svg>
