@@ -21,7 +21,10 @@ jobs:
       - name: Generate top languages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           GH_USER: ${{ github.repository_owner }}
+          # Ganti menjadi "owner" jika hanya ingin menghitung repo milikmu sendiri
+          AFFILIATION: owner,collaborator,organization_member
         run: python3 scripts/update_languages.py
 
       - name: Commit changes
