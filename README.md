@@ -1,117 +1,102 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Hi,%20I'm%20Alantaaa%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Laravel%20%26%20Filament%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1F4D,100:0072FF&height=220&section=header&text=ALANTAAA&fontSize=64&fontColor=00E5FF&fontAlignY=42&animation=twinkling&desc=Web%20Developer%20%7C%20Laravel%20%26%20Filament&descSize=18&descAlignY=64&descColor=9FB3C8" width="100%" alt="Alantaaa" />
 
-<a href="https://github.com/Alantaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Laravel+%26+Filament;Crafting+modern+UI+with+Tailwind+CSS;Learning+something+new+every+day+🚀;Let's+build+something+awesome!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alantaaa&label=Profile%20Views&color=0072FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Alantaaa?style=for-the-badge&logo=github&color=00C6FF&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Repositories-6-0072FF?style=for-the-badge&logo=github&labelColor=0d1117)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 💻 Web Developer yang fokus pada ekosistem **Laravel + Filament**
-- 🎨 Suka membuat tampilan modern dengan **Tailwind CSS**
-- 🔍 Paham dasar **SEO & analitik** (Google Search Console, Google Analytics)
-- 🌱 Sedang belajar **Blade, VPS, dan Express.js**
-- ⚡ Selalu tertarik mencoba teknologi baru dan membangun proyek nyata
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,nextjs&theme=dark" alt="frameworks" />
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=white" alt="Filament" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="database" />
-</p>
-
-### Tools & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,vercel,wordpress&theme=dark" alt="tools" />
-</p>
-
-### SEO & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="GSC" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
-  <img src="https://img.shields.io/badge/VPS-0072FF?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Alantaaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alantaaa&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alantaaa&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 📌 Featured Project
-
-<div align="center">
-
-[![API-Openweathermap](https://github-readme-stats.vercel.app/api/pin/?username=Alantaaa&repo=API-Openweathermap&theme=tokyonight&hide_border=true)](https://github.com/Alantaaa/API-Openweathermap)
-
-</div>
-
----
-
-## 🏆 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alantaaa&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://github.com/Alantaaa"><img src="https://img.shields.io/badge/GitHub-Alantaaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- Tambahkan kontak kamu di bawah ini, hapus tanda komentar jika sudah diisi -->
-<!-- <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
-<!-- <a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
-<!-- <a href="https://instagram.com/usernamekamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=Building+modern+web+apps+with+Laravel;Crafting+admin+panels+with+Filament;Designing+clean+UI+with+Tailwind+CSS;Always+learning%2C+always+shipping" alt="Typing" />
 
 <br/><br/>
 
-*⭐ Terima kasih sudah mampir! Jangan lupa kasih bintang di repo yang kamu suka.*
+<img src="https://komarev.com/ghpvc/?username=Alantaaa&label=PROFILE+VIEWS&color=0072FF&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Alantaaa?style=for-the-badge&logo=github&logoColor=00E5FF&label=FOLLOWERS&labelColor=0A0F1E&color=0072FF" alt="followers" />
+<img src="https://img.shields.io/badge/REPOSITORIES-7-0072FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1E" alt="repos" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" width="100%" alt="footer" />
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/user.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> About Me
+
+- <img src="https://api.iconify.design/lucide/terminal.svg?color=%2300E5FF&width=18&height=18" align="center" width="18" height="18" /> Web Developer yang fokus pada ekosistem **Laravel + Filament**
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%2300E5FF&width=18&height=18" align="center" width="18" height="18" /> Suka membuat tampilan modern dan bersih dengan **Tailwind CSS**
+- <img src="https://api.iconify.design/lucide/search.svg?color=%2300E5FF&width=18&height=18" align="center" width="18" height="18" /> Paham dasar **SEO dan analitik** (Google Search Console, Google Analytics)
+- <img src="https://api.iconify.design/lucide/book-open.svg?color=%2300E5FF&width=18&height=18" align="center" width="18" height="18" /> Sedang belajar **Blade, VPS, dan Express.js**
+- <img src="https://api.iconify.design/lucide/zap.svg?color=%2300E5FF&width=18&height=18" align="center" width="18" height="18" /> Selalu tertarik mencoba teknologi baru dan membangun proyek nyata
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> Tech Stack
+
+**Backend and Frontend**
+
+<img src="https://img.shields.io/badge/PHP-0D1626?style=for-the-badge&logo=php&logoColor=00E5FF" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-0D1626?style=for-the-badge&logo=laravel&logoColor=00E5FF" alt="Laravel" />
+<img src="https://img.shields.io/badge/Filament-0D1626?style=for-the-badge&logo=filament&logoColor=00E5FF" alt="Filament" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1626?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Next.js-0D1626?style=for-the-badge&logo=nextdotjs&logoColor=00E5FF" alt="Next.js" />
+<img src="https://img.shields.io/badge/WordPress-0D1626?style=for-the-badge&logo=wordpress&logoColor=00E5FF" alt="WordPress" />
+
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-0D1626?style=for-the-badge&logo=mysql&logoColor=00E5FF" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-0D1626?style=for-the-badge&logo=mongodb&logoColor=00E5FF" alt="MongoDB" />
+
+**Tools and Deployment**
+
+<img src="https://img.shields.io/badge/Postman-0D1626?style=for-the-badge&logo=postman&logoColor=00E5FF" alt="Postman" />
+<img src="https://img.shields.io/badge/Vercel-0D1626?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Vercel" />
+
+**SEO and Analytics**
+
+<img src="https://img.shields.io/badge/Search_Console-0D1626?style=for-the-badge&logo=googlesearchconsole&logoColor=00E5FF" alt="Google Search Console" />
+<img src="https://img.shields.io/badge/Analytics-0D1626?style=for-the-badge&logo=googleanalytics&logoColor=00E5FF" alt="Google Analytics" />
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/sprout.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> Currently Learning
+
+<img src="https://img.shields.io/badge/Blade-0D1626?style=for-the-badge&logo=laravel&logoColor=00E5FF" alt="Blade" />
+<img src="https://img.shields.io/badge/VPS-0D1626?style=for-the-badge&logo=linux&logoColor=00E5FF" alt="VPS" />
+<img src="https://img.shields.io/badge/Express.js-0D1626?style=for-the-badge&logo=express&logoColor=00E5FF" alt="Express.js" />
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alantaaa&theme=dark&background=0A0F1E&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=9FB3C8&sideNums=FFFFFF&dates=6B7C93&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/pin.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Alantaaa/API-Openweathermap">
+  <img src="https://img.shields.io/badge/API--Openweathermap-Weather_API-0D1626?style=for-the-badge&logo=github&logoColor=00E5FF" alt="API-Openweathermap" />
+</a>
+
+API untuk menampilkan informasi cuaca real-time berdasarkan nama kota atau negara.
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/lucide/link.svg?color=%2300E5FF&width=24&height=24" align="center" width="24" height="24" /> Connect
+
+<div align="center">
+
+<a href="https://github.com/Alantaaa"><img src="https://img.shields.io/badge/GitHub-Alantaaa-0D1626?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
+<!-- Hapus tanda komentar dan isi dengan akun kamu
+<a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-0D1626?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+<a href="https://linkedin.com/in/usernamekamu"><img src="https://img.shields.io/badge/LinkedIn-0D1626?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+<a href="https://instagram.com/usernamekamu"><img src="https://img.shields.io/badge/Instagram-0D1626?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" /></a>
+-->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:020617&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
