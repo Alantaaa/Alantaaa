@@ -8,14 +8,14 @@
   <rect x="0.5" y="0.5" width="819" height="199" rx="14" fill="#0A0F1E" stroke="#0072FF" stroke-opacity="0.45"/>
   <text x="28" y="46" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">PHP</text>
   <rect x="190" y="32" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
-  <rect x="190" y="32" width="238.2" height="18" rx="9" fill="#0072FF" opacity="1.0" filter="url(#glow)"/>
-  <text x="792" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">47.6%</text>
+  <rect x="190" y="32" width="241.5" height="18" rx="9" fill="#0072FF" opacity="1.0" filter="url(#glow)"/>
+  <text x="792" y="46" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">48.3%</text>
   <text x="28" y="98" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">JavaScript</text>
   <rect x="190" y="84" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
-  <rect x="190" y="84" width="138.7" height="18" rx="9" fill="#0072FF" opacity="0.8" filter="url(#glow)"/>
-  <text x="792" y="98" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">27.7%</text>
+  <rect x="190" y="84" width="135.3" height="18" rx="9" fill="#0072FF" opacity="0.8" filter="url(#glow)"/>
+  <text x="792" y="98" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">27.1%</text>
   <text x="28" y="150" font-family="-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Blade</text>
   <rect x="190" y="136" width="500" height="18" rx="9" fill="#111B36" stroke="#0072FF" stroke-opacity="0.3"/>
-  <rect x="190" y="136" width="110.6" height="18" rx="9" fill="#0072FF" opacity="0.6" filter="url(#glow)"/>
-  <text x="792" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">22.1%</text>
+  <rect x="190" y="136" width="108.5" height="18" rx="9" fill="#0072FF" opacity="0.6" filter="url(#glow)"/>
+  <text x="792" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" font-weight="700" fill="#FFFFFF">21.7%</text>
 </svg>
